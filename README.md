@@ -1,2 +1,2 @@
 # Rosalind Solutions
-6 Solved.
+21 Solved.
